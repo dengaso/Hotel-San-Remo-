@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AutoPlay>true</AutoPlay>
+            <DescSliding>true</DescSliding>
+            <GalleryName>galeria</GalleryName>
+            <GalleryOptionID>1</GalleryOptionID>
+            <HoverStart>false</HoverStart>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEngine>jquery</ImageEngine>
+            <ImageHeight>480</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink>true</ImageShrink>
+            <ImageStretch>false</ImageStretch>
+            <ImageTemplate>5. Mac</ImageTemplate>
+            <ImageTemplateName>Native</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <PublishFileName>C:/Users/B1/Documents/VisualLightBox/index.html</PublishFileName>
+            <PublishIndex>index.html</PublishIndex>
+            <PublishPath>C:/Users/B1/Documents/VisualLightBox</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelPaths>false</RelPaths>
+            <ResizeSpeed>7</ResizeSpeed>
+            <RightClick>false</RightClick>
+            <SlideShow>true</SlideShow>
+            <SlideShowDelay>4</SlideShowDelay>
+            <ThumbColumns>0</ThumbColumns>
+            <ThumbFitImage>false</ThumbFitImage>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>120</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbTemplate>Mac</ThumbTemplate>
+            <ThumbTemplateName>Native</ThumbTemplateName>
+            <ThumbWidth>160</ThumbWidth>
+        </Settings>
+        <Images>
+            <Image>
+                <url>C:/Users/B1/Desktop/trabajosinfo2/trabajosinfo2/sanremo/imagenes/galeria/banio.jpg</url>
+                <title>Baño</title>
+                <filesize>494516</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/B1/Desktop/trabajosinfo2/trabajosinfo2/sanremo/imagenes/galeria/desayuno.jpg</url>
+                <title>Desayuno</title>
+                <filesize>492867</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/B1/Desktop/trabajosinfo2/trabajosinfo2/sanremo/imagenes/galeria/hab_estandar.jpg</url>
+                <title>Habitacion Estandar</title>
+                <filesize>113453</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/B1/Desktop/trabajosinfo2/trabajosinfo2/sanremo/imagenes/galeria/hab_superior.jpg</url>
+                <title>Habitacion Suprerior</title>
+                <filesize>402345</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/B1/Desktop/trabajosinfo2/trabajosinfo2/sanremo/imagenes/galeria/juegos.jpg</url>
+                <title>Juegos</title>
+                <filesize>109295</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/B1/Desktop/trabajosinfo2/trabajosinfo2/sanremo/imagenes/galeria/piscina.jpg</url>
+                <title>Piscina</title>
+                <filesize>452350</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/B1/Desktop/trabajosinfo2/trabajosinfo2/sanremo/imagenes/galeria/piscina2.jpg</url>
+                <title>Piscina 2</title>
+                <filesize>344793</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/B1/Desktop/trabajosinfo2/trabajosinfo2/sanremo/imagenes/galeria/recepcion.jpg</url>
+                <title>Recepcion</title>
+                <filesize>119047</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/B1/Desktop/trabajosinfo2/trabajosinfo2/sanremo/imagenes/galeria/sala_juegos.jpg</url>
+                <title>Sala de Juegos</title>
+                <filesize>79189</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/B1/Desktop/trabajosinfo2/trabajosinfo2/sanremo/imagenes/galeria/terraza.jpg</url>
+                <title>Terraza</title>
+                <filesize>59819</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/B1/Desktop/trabajosinfo2/trabajosinfo2/sanremo/imagenes/galeria/vista.jpg</url>
+                <title>Vista</title>
+                <filesize>573677</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/B1/Desktop/trabajosinfo2/trabajosinfo2/sanremo/imagenes/galeria/vista_aerea.jpg</url>
+                <title>Vista Aerea</title>
+                <filesize>200492</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
